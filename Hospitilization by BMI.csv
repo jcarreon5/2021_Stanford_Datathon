@@ -1,0 +1,9 @@
+Characteristic,Total Cohort in Database,Total Cohort,Hospitalized,"Hospitalized, ICU care","Hospitalized, IMV","Hospitalized, Died"
+15,"<18.5(underweight)",79988,2674,1730,865,169,273
+16,"18.5-24.9(healthy weight)",829474,28349,14111,6891,1550,1957
+17,"25-29.9(overweight)",936132,41973,19847,9661,2435,2277
+18,">= 30(obesity)",1397055,75498,35803,17479,5371,3841
+19,"30 - 34.9",674575,34608,16338,7883,2300,1830
+20,"35 - 39.9",373226,20262,9476,4601,1399,960
+21,"40-44.9(severe obesity)",187046,10739,5015,2438,783517
+22,">=45(severe obesity)",162208,9889,4974,2557,889534
