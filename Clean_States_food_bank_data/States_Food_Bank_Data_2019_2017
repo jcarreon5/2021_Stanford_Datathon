@@ -1,0 +1,52 @@
+,FIPS,State Name,State,2017 Food Insecurity Rate %,# of Food Insecure Persons in 2017,% Low Threshold in state,Low Threshold Type,% High Threshold in state,High Threshold Type,% FI ≤ Low Threshold,% FI Btwn Thresholds,% FI > High Threshold,2017 Child Food Insecurity Rate %,# of Food Insecure Children in 2017,% food insecure Children in HH w/HH Incomes Below 185 FPL in 2017,% food insecure Children in HH w/HH Incomes Above 185 FPL in 2017,2017 Cost Per Meal,2017 Weighted Annual Food Budget Shortfall
+0,1,Alabama,AL,16.3,795760.0,130.0,SNAP,185.0,Other Nutrition Program,51.9,16.1,32.0,22.3,243880.0,72.0,28.0,2.98,404180000.0
+1,2,Alaska,AK,13.6,100310.0,130.0,SNAP,185.0,Other Nutrition Program,44.5,15.2,40.4,18.7,34690.0,59.0,41.0,3.37,57721000.0
+2,4,Arizona,AZ,14.0,979170.0,185.0,"SNAP, Other Nutrition Programs",185.0,"SNAP, Other Nutrition Programs",64.8,,35.2,21.3,348550.0,67.0,33.0,2.89,482358000.0
+3,5,Arkansas,AR,17.3,518960.0,130.0,SNAP,185.0,Other Nutrition Program,50.6,17.2,32.2,23.6,167440.0,70.0,30.0,2.79,246939000.0
+4,6,California,CA,11.0,4354400.0,200.0,"SNAP, Other Nutrition Programs",200.0,"SNAP, Other Nutrition Programs",75.3,,24.7,18.1,1638430.0,63.0,37.0,3.2,2381146000.0
+5,8,Colorado,CO,10.6,596150.0,200.0,"SNAP, Other Nutrition Programs",200.0,"SNAP, Other Nutrition Programs",65.2,,34.8,14.0,177360.0,59.0,41.0,3.24,329732000.0
+6,9,Connecticut,CT,11.3,406810.0,185.0,"SNAP, Other Nutrition Programs",185.0,"SNAP, Other Nutrition Programs",56.2,,43.8,15.5,115240.0,63.0,37.0,3.27,227321000.0
+7,10,Delaware,DE,12.2,117320.0,200.0,"SNAP, Other Nutrition Programs",200.0,"SNAP, Other Nutrition Programs",66.0,,34.0,17.0,34750.0,69.0,31.0,3.12,62450000.0
+8,11,District of Columbia,DC,11.0,76550.0,200.0,"SNAP, Other Nutrition Programs",200.0,"SNAP, Other Nutrition Programs",72.2,,27.8,21.2,26450.0,71.0,29.0,3.95,51543000.0
+9,12,Florida,FL,13.4,2806770.0,200.0,"SNAP, Other Nutrition Programs",200.0,"SNAP, Other Nutrition Programs",72.3,,27.7,20.4,854880.0,68.0,32.0,3.22,1540091000.0
+10,13,Georgia,GA,14.4,1501680.0,130.0,SNAP,185.0,Other Nutrition Program,51.0,16.1,32.9,20.0,503370.0,68.0,32.0,2.93,749671000.0
+11,15,Hawaii,HI,11.3,161270.0,200.0,"SNAP, Other Nutrition Programs",200.0,"SNAP, Other Nutrition Programs",51.8,,48.2,17.5,53540.0,43.0,57.0,3.3,90737000.0
+12,16,Idaho,ID,12.3,210420.0,130.0,SNAP,185.0,Other Nutrition Program,45.7,18.1,36.2,15.8,69920.0,65.0,35.0,2.94,105626000.0
+13,17,Illinois,IL,10.9,1395970.0,165.0,SNAP,185.0,Other Nutrition Program,62.6,2.5,34.9,15.7,453260.0,66.0,34.0,2.8,668124000.0
+14,18,Indiana,IN,13.3,887070.0,130.0,SNAP,185.0,Other Nutrition Program,51.7,14.1,34.1,17.4,273380.0,67.0,33.0,2.62,396443000.0
+15,19,Iowa,IA,10.9,341890.0,160.0,SNAP,185.0,Other Nutrition Program,52.4,4.9,42.7,15.3,111520.0,58.0,42.0,2.7,157367000.0
+16,20,Kansas,KS,12.7,370860.0,130.0,SNAP,185.0,Other Nutrition Program,44.7,15.4,39.9,18.3,130210.0,63.0,37.0,2.86,181199000.0
+17,21,Kentucky,KY,14.9,662360.0,130.0,SNAP,185.0,Other Nutrition Program,56.0,10.8,33.2,18.4,186660.0,70.0,30.0,2.66,300483000.0
+18,22,Louisiana,LA,16.5,773850.0,130.0,SNAP,185.0,Other Nutrition Program,59.1,11.6,29.3,23.0,255640.0,71.0,29.0,3.01,396905000.0
+19,23,Maine,ME,12.9,172650.0,185.0,"SNAP, Other Nutrition Programs",185.0,"SNAP, Other Nutrition Programs",56.8,,43.2,18.5,47020.0,56.0,44.0,3.5,103223000.0
+20,24,Maryland,MD,10.7,650200.0,200.0,"SNAP, Other Nutrition Programs",200.0,"SNAP, Other Nutrition Programs",62.8,,37.2,15.2,204660.0,61.0,39.0,3.14,347927000.0
+21,25,Massachusetts,MA,9.0,616090.0,200.0,"SNAP, Other Nutrition Programs",200.0,"SNAP, Other Nutrition Programs",66.8,,33.2,11.7,159950.0,65.0,35.0,3.55,373245000.0
+22,26,Michigan,MI,13.7,1369250.0,200.0,"SNAP, Other Nutrition Programs",200.0,"SNAP, Other Nutrition Programs",71.6,,28.4,15.9,345130.0,68.0,32.0,2.79,652838000.0
+23,27,Minnesota,MN,9.1,504760.0,165.0,SNAP,185.0,Other Nutrition Program,57.3,2.8,39.9,12.6,163310.0,67.0,33.0,3.0,258233000.0
+24,28,Mississippi,MS,19.2,573610.0,130.0,SNAP,185.0,Other Nutrition Program,54.4,14.1,31.5,22.9,163530.0,71.0,29.0,2.93,286997000.0
+25,29,Missouri,MO,14.2,865400.0,130.0,SNAP,185.0,Other Nutrition Program,48.7,14.8,36.4,17.5,243110.0,65.0,35.0,2.78,409933000.0
+26,30,Montana,MT,11.1,116120.0,200.0,"SNAP, Other Nutrition Programs",200.0,"SNAP, Other Nutrition Programs",66.3,,33.7,16.1,36910.0,57.0,43.0,2.96,58669000.0
+27,31,Nebraska,NE,11.6,223170.0,130.0,SNAP,185.0,Other Nutrition Program,42.3,14.3,43.4,17.4,82370.0,63.0,37.0,2.83,107760000.0
+28,32,Nevada,NV,12.2,365160.0,200.0,"SNAP, Other Nutrition Programs",200.0,"SNAP, Other Nutrition Programs",72.2,,27.8,20.0,136800.0,60.0,40.0,3.05,190010000.0
+29,33,New Hampshire,NH,9.1,122860.0,185.0,"SNAP, Other Nutrition Programs",185.0,"SNAP, Other Nutrition Programs",48.0,,52.0,12.3,31640.0,53.0,47.0,3.31,69502000.0
+30,34,New Jersey,NJ,9.6,865900.0,185.0,"SNAP, Other Nutrition Programs",185.0,"SNAP, Other Nutrition Programs",65.4,,34.6,13.2,260340.0,67.0,33.0,3.24,478385000.0
+31,35,New Mexico,NM,15.5,324000.0,165.0,SNAP,185.0,Other Nutrition Program,69.5,3.4,27.0,24.1,118030.0,73.0,27.0,2.87,158536000.0
+32,36,New York,NY,11.4,2261250.0,200.0,"SNAP, Other Nutrition Programs",200.0,"SNAP, Other Nutrition Programs",74.7,,25.3,17.6,732300.0,66.0,34.0,3.14,1210704000.0
+33,37,North Carolina,NC,14.6,1503050.0,200.0,"SNAP, Other Nutrition Programs",200.0,"SNAP, Other Nutrition Programs",69.7,,30.3,20.1,461630.0,67.0,33.0,2.87,735321000.0
+34,38,North Dakota,ND,7.3,54930.0,200.0,"SNAP, Other Nutrition Programs",200.0,"SNAP, Other Nutrition Programs",61.8,,38.2,9.8,16900.0,55.0,45.0,3.07,28813000.0
+35,39,Ohio,OH,14.5,1691910.0,130.0,SNAP,185.0,Other Nutrition Program,50.5,12.7,36.8,19.6,510030.0,66.0,34.0,2.76,797169000.0
+36,40,Oklahoma,OK,15.8,621370.0,130.0,SNAP,185.0,Other Nutrition Program,49.0,16.4,34.6,22.2,213720.0,64.0,36.0,2.87,304698000.0
+37,41,Oregon,OR,12.3,510080.0,185.0,"SNAP, Other Nutrition Programs",185.0,"SNAP, Other Nutrition Programs",68.0,,32.0,18.9,165290.0,63.0,37.0,2.97,258439000.0
+38,42,Pennsylvania,PA,12.0,1534710.0,160.0,SNAP,185.0,Other Nutrition Program,56.9,3.3,39.8,16.4,437340.0,63.0,37.0,3.04,797438000.0
+39,44,Rhode Island,RI,11.4,120590.0,185.0,"SNAP, Other Nutrition Programs",185.0,"SNAP, Other Nutrition Programs",61.5,,38.5,17.3,35760.0,63.0,37.0,3.23,66402000.0
+40,45,South Carolina,SC,13.5,679990.0,130.0,SNAP,185.0,Other Nutrition Program,54.8,15.2,30.0,18.3,202110.0,68.0,32.0,2.8,324978000.0
+41,46,South Dakota,SD,11.4,99190.0,130.0,SNAP,185.0,Other Nutrition Program,45.5,11.9,42.6,16.4,34970.0,58.0,42.0,3.02,51050000.0
+42,47,Tennessee,TN,13.9,934310.0,130.0,SNAP,185.0,Other Nutrition Program,53.7,15.0,31.2,18.9,285770.0,69.0,31.0,2.96,472085000.0
+43,48,Texas,TX,14.9,4217470.0,165.0,SNAP,185.0,Other Nutrition Program,61.2,3.4,35.4,22.5,1658680.0,63.0,37.0,2.71,1949246000.0
+44,49,Utah,UT,12.1,373850.0,130.0,SNAP,185.0,Other Nutrition Program,40.0,14.3,45.8,14.7,135940.0,51.0,49.0,2.81,179279000.0
+45,50,Vermont,VT,11.9,74520.0,185.0,"SNAP, Other Nutrition Programs",185.0,"SNAP, Other Nutrition Programs",59.6,,40.4,15.9,18760.0,61.0,39.0,3.38,42994000.0
+46,51,Virginia,VA,10.2,863390.0,130.0,SNAP,185.0,Other Nutrition Program,48.4,13.5,38.1,13.2,247470.0,62.0,38.0,3.03,446691000.0
+47,53,Washington,WA,11.5,848990.0,200.0,"SNAP, Other Nutrition Programs",200.0,"SNAP, Other Nutrition Programs",64.9,,35.1,17.3,284760.0,57.0,43.0,3.04,440879000.0
+48,54,West Virginia,WV,14.8,268070.0,200.0,"SNAP, Other Nutrition Programs",200.0,"SNAP, Other Nutrition Programs",68.7,,31.3,20.6,76970.0,65.0,35.0,2.71,123886000.0
+49,55,Wisconsin,WI,10.0,578480.0,200.0,"SNAP, Other Nutrition Programs",200.0,"SNAP, Other Nutrition Programs",69.0,,31.0,15.4,197290.0,62.0,38.0,2.77,273911000.0
+50,56,Wyoming,WY,12.3,71060.0,130.0,SNAP,185.0,Other Nutrition Program,39.8,14.4,45.8,17.4,23960.0,54.0,46.0,3.05,36970000.0
